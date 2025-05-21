@@ -4,10 +4,10 @@ using DevA;
 
 public class ProgrammerB : MonoBehaviour
 {
-    ProgrammerA pA;
+    public ProgrammerA pA;
     void Start()
     {
-      //  pA.number2 = 20;
+     // pA.number2 = 20;
 
     }
         
