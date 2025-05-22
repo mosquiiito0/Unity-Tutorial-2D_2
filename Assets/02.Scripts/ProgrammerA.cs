@@ -10,7 +10,7 @@ namespace DevA
         [SerializeField]
         private int number5;
 
-
+        
     }
 }
 

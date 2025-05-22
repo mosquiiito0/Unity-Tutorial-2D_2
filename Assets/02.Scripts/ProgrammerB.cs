@@ -7,7 +7,7 @@ public class ProgrammerB : MonoBehaviour
     public ProgrammerA pA;
     void Start()
     {
-     // pA.number2 = 20;
+       pA.number2 = 20;
 
     }
         
